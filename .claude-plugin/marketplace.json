@@ -1,0 +1,34 @@
+{
+  "name": "thejustinwalsh",
+  "owner": {
+    "name": "Justin Walsh"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Justin Walsh"
+  },
+  "plugins": [
+    {
+      "name": "restruct",
+      "description": "Meta-prompt refinement via local LLM — transforms casual prompts into structured, rules-aware agent instructions",
+      "version": "0.2.0",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/thejustinwalsh/claude-restruct-plugin",
+        "path": "plugin"
+      },
+      "keywords": ["prompts", "refinement", "ollama", "local-llm", "rules"],
+      "category": "productivity"
+    },
+    {
+      "name": "ghostty-notify",
+      "description": "Native macOS notifications for Claude Code with Ghostty tab focusing",
+      "version": "1.2.0",
+      "source": {
+        "source": "github",
+        "repo": "thejustinwalsh/ghostty-notify"
+      },
+      "keywords": ["notifications", "ghostty", "macos"],
+      "category": "utilities"
+    }
+  ]
+}
