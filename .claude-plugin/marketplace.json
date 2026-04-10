@@ -25,7 +25,7 @@
       "version": "1.2.0",
       "source": {
         "source": "github",
-        "repo": "thejustinwalsh/ghostty-notify"
+        "repo": "thejustinwalsh/claude-ghostty-notify"
       },
       "keywords": ["notifications", "ghostty", "macos"],
       "category": "utilities"
